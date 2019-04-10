@@ -45,7 +45,7 @@ figcaption {
 /* descendent selector */
 
 #logo h1 { /* will only style h1 if inside elem id =                                            logo */   
-  
+  font-family: Clicker
 }
 
 
