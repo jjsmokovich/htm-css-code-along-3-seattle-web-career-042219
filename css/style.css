@@ -10,4 +10,4 @@
 /* type selector */
 
 p {/* select all <p> */
-font-size: 1em; /* 16px, ?pt, */
+font-size: 1em; /* 16px, ?pt, 100%, */
