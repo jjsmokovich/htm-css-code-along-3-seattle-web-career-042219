@@ -54,7 +54,9 @@ figcaption {
 
 /* pseudo class selectors */
 
-#details a:link
+#details a:link {
+  
+}
 
 
 
