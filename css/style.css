@@ -30,4 +30,6 @@ figcaption {
 
 /* class selector (applied to as many elements as you like) */ 
 
-.milk-text
+.milk-text { /* select elements related to milk-text */
+  
+}
