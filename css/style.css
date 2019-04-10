@@ -55,7 +55,8 @@ figcaption {
 /* pseudo class selectors */
 
 #details a:link {
-  
+  color: black;
+  text-decoration: 
 }
 
 
